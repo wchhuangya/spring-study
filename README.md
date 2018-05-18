@@ -4,9 +4,10 @@
 
 欢迎来到 `Spring Framework` 参考文档。
 
-请阅读 [概述](summary/0.md) 获得本文的简要介绍，概述中包括简要历史记录，设计理念，在哪里提问以及入门提示。有关“新增功能”或“从早期版本迁移”的信息，请查看 `Github Wiki`。
+请阅读 **[概述](overview/1.md)** 获得本文的简要介绍，概述中包括简要历史记录，设计理念，在哪里提问以及入门提示。有关“新增功能”或“从早期版本迁移”的信息，请查看 **[Github Wiki](https://github.com/spring-projects/spring-framework/wiki)**。
 
 参考文档共分以下几个部分：
+
 [core]()：`IoC container`，`Events`，`Resources`，`i18n`，`Validation`，`Data Binding`，`Type Conversion`，`SpEL`，`AOP`
 
 [Testing]()：`Mock objects`, `TestContext framework`, `Spring MVC Test`, `WebTestClient`
