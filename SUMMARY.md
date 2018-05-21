@@ -1,12 +1,12 @@
 # Table of contents
 
 * [书籍简介](README.md)
-* [1. Spring Framework 概述](1.-spring-framework-gai-shu/README.md)
-  * [1.1 Spring 意味着什么](1.-spring-framework-gai-shu/1.1-spring-yi-wei-zhuo-shi-mo.md)
-  * [1.2 Spring 和 Spring Framework 的历史](1.-spring-framework-gai-shu/1.2-spring-he-spring-framework-de-li-shi.md)
-  * [1.3 设计理念](1.-spring-framework-gai-shu/1.3-she-ji-li-nian.md)
-  * [1.4 反馈和贡献](1.-spring-framework-gai-shu/1.4-fan-kui-he-gong-xian.md)
-  * [1.5 开始](1.-spring-framework-gai-shu/1.5-kai-shi.md)
+* [1. Spring Framework 概述](overview/README.md)
+  * [1.1 Spring 意味着什么](overview/1.1.md)
+  * [1.2 Spring 和 Spring Framework 的历史](overview/1.2.md)
+  * [1.3 设计理念](overview/1.3.md)
+  * [1.4 反馈和贡献](overview/1.4.md)
+  * [1.5 开始](overview/1.5.md)
 * [2. 核心技术](2.-he-xin-ji-shu/README.md)
   * [2.1 IoC 容器](2.-he-xin-ji-shu/2.1-ioc-rong-qi/README.md)
     * [2.1.1 Spring IoC 容器和 bean 的介绍](2.-he-xin-ji-shu/2.1-ioc-rong-qi/2.1.1-spring-ioc-rong-qi-he-bean-de-jie-shao.md)
